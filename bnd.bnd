@@ -1,0 +1,4 @@
+Bundle-Name: liferay-arquillian-example-gradle
+Bundle-SymbolicName: liferay.arquillian.example.gradle
+Bundle-Version: 1.0.0
+Export-Package: add.service
